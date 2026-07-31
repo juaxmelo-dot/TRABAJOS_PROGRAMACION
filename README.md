@@ -93,17 +93,9 @@ Resultado
 
 ------------------------------------------------------------------------
 
-📌 Próximas mejoras
-
--   Persistencia en archivos (guardar y cargar helados).
--   Soporte para interfaz gráfica (JavaFX o Swing).
--   Implementación de pruebas unitarias.
-
-------------------------------------------------------------------------
-
 👩‍💻 Autor
 
--   Proyecto académico desarrollado por Juan Sebastian Melo Melo - Miguel Salazar
+-   Proyecto académico desarrollado por Juan Sebastian Melo Melo.
 ------------------------------------------------------------------------
 
 📜 Licencia
